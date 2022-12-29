@@ -16,6 +16,8 @@ How to fix an OGA Odroid go advance with no sd card problem.
 * Where C25 is located.
 * Its the left one.
 
-### Note on some PCBs its labled differently. (But should be in the same place.)
+### Note
+
+* on some PCBs its labled differently. (But should be in the same place.)
 
 ![](go2.png)
